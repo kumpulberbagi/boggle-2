@@ -49,7 +49,7 @@ function string(){
 return string
 }
 
-function print(panjang,lebar){
+function print(array){
   var result = boogle(panjang,lebar)
 
 }
@@ -81,9 +81,12 @@ function solve(panjang,lebar){
     count = 0
     //return "toga"
  }
- return result
+ console.log("-------result-----");
+ for (var i = 0; i < result.length; i++) {
+   console.log(result[i]);
+ }
 
 
 }
 //console.log(string());
-console.log(solve(4,4));
+(solve(4,5));
