@@ -1,0 +1,8 @@
+{
+  "name": "Aji Lantang",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "console.table": "^0.7.0"
+  }
+}
