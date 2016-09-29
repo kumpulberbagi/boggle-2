@@ -1,0 +1,11 @@
+//Release 0
+
+-
+membuat array dengan huruf acak
+-
+membandingkan kata yang ada di data dengan kata-kata yang bisa di bentuk dari boggle board
+-
+kata yang bisa dibentuk dari kumpulan huruf acak dalam array di tampilkan dan merupakan jawaban
+
+-
+terima kasih..
