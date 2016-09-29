@@ -35,7 +35,6 @@ class BoogleBoard{
 
   searchWord(input){
     var flag=0;
-
     for(var i = 0 ; i < input.length ; i++){
       for(var j = 0 ; j < this.randomString.length ; j++){
         if(input[i] === this.randomString[j]){
@@ -74,4 +73,4 @@ let boogle = new BoogleBoard(4,4);//4 x 4
 // console.log(boogle.shake(4));
 console.log(boogle.shakeBoard());
 //console.log(boogle.searchWord("ABC"));
-console.log(boogle.inputCek("ABC"));
+console.log(boogle.inputCek("ABU"));
