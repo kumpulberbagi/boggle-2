@@ -65,7 +65,8 @@ class BoogleBoard{
       return "kata tidak ditemukan di papan";
     }
   }
-
+  // var kunci = {"01","10","11","-10","-01","0-1"," -1-1","+1+1"}
+  // trueBoogle ()
 };
 
 let boogle = new BoogleBoard(4,4);//4 x 4
